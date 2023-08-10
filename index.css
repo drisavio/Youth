@@ -1,0 +1,136 @@
+.navbar {
+    background-color: rgb(255, 255, 255) !important;
+    width: 100%;
+    height: 100%;
+    padding: 2%;
+}
+
+.img {
+    width: 100%;
+    margin-top: -20%;
+}
+
+.card {
+    padding: 10%;
+    width: 40%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 5%;
+    flex-direction: column;
+}
+
+.container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("banner.JPG");
+    background-size: cover;
+    flex-direction: column;
+}
+.form-check form-switch{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.form-group {
+
+    font-size: 13px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    border: 1%;
+    border-color: black;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#check {
+    background-color: black;
+    border-color: #ffffff;
+    margin-top: 9.5%;
+}
+
+.form-check-label {
+    color: #000000 !important;
+    margin-left: 2px;
+    margin-right: 55px;
+    margin-top: 8%;
+}
+
+#esqueceu-senha{
+    text-decoration: none;
+    color: #000000;
+}
+
+.botao {
+    background-color: black;
+    color: #ffffff;
+    width: 50%;
+    border-radius: 5% !important; 
+    margin-top: 10%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.senha {
+    width: 100%;
+    margin-top: 13%;
+}
+
+.usuario {
+    width: 100%;
+}
+
+.Esqueceu {
+    color: rgb(36, 36, 36) !important;
+    font-family: light italic;
+    font-style: italic;
+    margin-left: 60%;  
+}
+
+.footer {
+    background-color: #ffffff;
+    width: 100%;
+    height: 100%;
+    padding: 2%;
+}
+
+.icons {
+    margin-left: 86%;
+}
+
+.face {
+    width: 15%;
+    margin-top: 1%;
+}
+
+.insta {
+    width: 15%;
+    margin-top: 1%;
+}
+
+.wpp {
+    width: 15%;
+    margin-top: 1%;
+}
+
+.twt {
+    width: 15%;
+    margin-top: 1%;
+}
+
+.pessoa {
+    width: 15%;
+}
+
+.cadeado {
+    width: 15%;
+    margin-top: 8%;
+}
