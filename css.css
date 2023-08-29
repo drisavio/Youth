@@ -1,0 +1,88 @@
+body{
+background-image: url(grafitefundo.png);
+background-size: cover;
+}
+header {
+    color: #000;
+    text-align: center;
+    padding: 100px;
+}
+
+header img {
+    max-width: 170px;
+    height: auto;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.card {
+    background-color: #dfdede;
+    height: 20%;
+    border-radius: 15px;
+    box-shadow: 8px 8px 20px #636363;
+    width: 250px;
+    flex-direction: column;
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card h2 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
+
+.card p {
+    font-size: 1rem;
+    color: #777;
+}
+
+.Produto9 {
+    height: 10%;
+    width: 80%;
+}
+
+.Produto9 {
+    width: 250% !important;
+}
+
+.Produto14 {
+    margin-bottom: -7%;
+    margin-top: -22%;
+}
+
+.Produto13 {
+    margin-bottom: -10%;
+    margin-top: -20%;
+}
+
+.Produto15 {
+    margin-bottom: -8%;
+    margin-top: -12%;
+}
+
+.Produto11 {
+    width: 500% !important;
+    margin-bottom: 5%;
+    margin-top: -4%;
+}
+
+.cores {
+    width: 25px;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    margin-left: 3%;
+}

@@ -1,0 +1,142 @@
+body{
+    background-image: url(grafitefundo.png);
+    background-size: cover;
+}
+header {
+    color: #000;
+    text-align: center;
+    padding: 20px;
+}
+
+header img {
+    max-width: 170px;
+    height: auto;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around; 
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.card {
+    background-color: #dfdede;
+    height: 20%;
+    border-radius: 15px;
+    box-shadow: 8px 8px 20px #636363;
+    width: 250px;
+    flex-direction: column-reverse;
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    margin: 10px; 
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card h2 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
+
+.card p {
+    font-size: 1rem;
+    color: #777;
+}
+.card1{
+    background-color: #dfdede;
+    height: 10%;
+    border-radius: 15px;
+    box-shadow: 8px 8px 20px #636363;
+    width: 250px;
+    flex-direction: column-reverse;
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    margin: 10px; 
+}
+.Produto1{
+    margin-bottom: -21%;
+    margin-top: -26%;
+}
+.Produto2{
+    margin-bottom: 22%;
+    margin-top: 16%;
+}
+.Produto3{
+    margin-bottom: 17%;
+    margin-top: 15%;
+}
+.Produto4{
+    margin-bottom: 4%;
+    margin-top: -2%;
+}
+.Produto5{
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+.Produto6{
+    margin-bottom: -22%;
+    margin-top: -19%;
+}
+.Produto7{
+    margin-bottom: -22%;
+    margin-top: -18%;
+}
+.Produto8{
+    margin-bottom: 2%;
+    margin-top: 3%;
+}
+.Produto9{
+    margin-bottom: 9%;
+    margin-top: 6%;
+}
+.Produto10{
+    margin-bottom: 1%;
+    margin-top: -2%;
+}
+.Produto11{
+    margin-bottom: 5%;
+    margin-top: -3%;
+}
+.Produto12{
+    margin-bottom: -4%;
+    margin-top: 9%;
+}
+.Produto13{
+    margin-bottom: -36%;
+    margin-top: 3%;
+}
+.Produto14{
+    margin-bottom: -33%;
+    margin-top: -1%;
+}
+.Produto15{
+    margin-bottom: 4%;
+    margin-top: 5%;
+}
+.Produto16{
+    margin-bottom: -11%;
+    margin-top: -23%;
+}
+.Produto17{
+    margin-bottom: -3%;
+    margin-top: -5%;
+}
+.Produto18{
+    margin-bottom: -5%;
+    margin-top: -3%;
+}
+.Produto19{
+    margin-bottom: 2%;
+    margin-top: -7%;
+}
+.Produto20{
+    margin-bottom: -1%;
+    margin-top: -6%;
+}
